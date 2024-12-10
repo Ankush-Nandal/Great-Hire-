@@ -11,7 +11,6 @@ import RefundAndReturnPolicy from "./components/Policies/RefundAndReturnPolicy";
 import TermsAndConditions from "./components/Policies/TermsAndConditions";
 import Contact from "./components/Contact";
 import { JobDetailsProvider } from "./context/JobDetailsContext";
-// project merge successfully
 
 const appRouter = createBrowserRouter([
   {
